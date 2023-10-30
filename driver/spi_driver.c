@@ -121,20 +121,17 @@ void __not_in_flash_func(read_chip_id)(spi_inst_t *spi, uint cs_pin) {
 int main() {
     stdio_init_all();
     // set the baud rate to 1MHz
-    spi_init(SPI_PORT, 1000000);
-    spi_set_baudrate(SPI_PORT, 1000000);
+    spi_init(SPI_PORT, BAUD_RATE);
+    spi_set_baudrate(SPI_PORT, BAUD_RATE);
     
     gpio_set_function(SPI_TX_PIN, GPIO_FUNC_SPI);    
     gpio_set_function(SPI_RX_PIN, GPIO_FUNC_SPI);
     gpio_set_function(SPI_SCK_PIN, GPIO_FUNC_SPI);
 
-    bi_decl(bi_3pins_with_func(SPI_RX_PIN, SPI_TX_PIN, SPI_SCK_PIN, GPIO_FUNC_SPI));
-
     // Set up CS pin, initialisation and setting it to active-high state
     gpio_init(SPI_CS_PIN);
     gpio_put(SPI_CS_PIN, 1);
     gpio_set_dir(SPI_CS_PIN, GPIO_OUT);
-    bi_decl(bi_1pin_with_name(SPI_CS_PIN, "SPI CS"));
 
     uint8_t page_buf[PAGE_SIZE];
     const uint32_t target_address = 0;
