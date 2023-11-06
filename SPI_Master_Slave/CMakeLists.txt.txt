@@ -1,0 +1,35 @@
+add_executable(proj_master 
+proj_master.c
+        )
+# Pull in basic dependencies
+target_link_libraries(proj_master pico_stdlib 
+                                hardware_spi 
+                                hardware_adc
+        ) 
+
+# create map/bin/hex file etc.
+pico_add_extra_outputs(proj_master)
+
+# add url via pico_set_program_url
+example_auto_set_url(proj_master)
+
+pico_enable_stdio_usb(proj_master 1)
+pico_enable_stdio_uart(proj_master 1)
+
+
+
+add_executable(proj_slave
+proj_slave.c
+        )
+
+# Pull in basic dependencies
+target_link_libraries(proj_slave pico_stdlib hardware_spi)
+
+# create map/bin/hex file etc.
+pico_add_extra_outputs(proj_slave)
+
+# add url via pico_set_program_url
+example_auto_set_url(proj_slave)
+
+pico_enable_stdio_usb(proj_slave 1)
+pico_enable_stdio_uart(proj_slave 1)
