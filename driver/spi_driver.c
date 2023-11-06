@@ -18,7 +18,7 @@
 #define PAGE_PROGRAM    0x02    // Address Status Page Program
 #define BUSY_STATUS     0x01    // Address Busy Status
 
-#define CHIP_COMMAND_ID 0x9F    // Address Status Read ID
+#define CHIP_ID         0x9F    // Address Status Read ID
 
 #define BAUD_RATE       1000*1000
 #define PAGE_SIZE       256     // Page Size reading
@@ -109,15 +109,6 @@ void __not_in_flash_func(wait_busy)(spi_inst_t *spi, uint cs_pin){
     while(flag & BUSY_STATUS);  // Binary check if flag and busy status is same
 }
 
-void __not_in_flash_func(read_chip_id)(spi_inst_t *spi, uint cs_pin) {
-    printf("Set Command: chipCmdIda\n");
-
-    cs_select(cs_pin);
-    
-    cs_deselect(cs_pin);
-    
-}
-
 int main() {
     stdio_init_all();
     // set the baud rate to 1MHz
@@ -138,7 +129,8 @@ int main() {
 
     sleep_ms(5000);
     printf("Starting...\n");
-    sleep_ms(3000);
+    
+    sleep_ms(2000);
 
     printf("\nFirst Reading:\n");
     sector_erase(SPI_PORT, SPI_CS_PIN, target_address); // Sector erase to start clean state
@@ -147,8 +139,10 @@ int main() {
 
     printf("\nWriting to Flash...\n");
     // Writing to flash
+    // Change the value PAGE_SIZE to a number to control how many bytes you want to write to
     for(int i = 0; i < PAGE_SIZE; i++){
         // For each bytes in size of page, write 100 (decimal integer) which is 64 in hexadecimal
+        // Can be changed to any integer you want
         page_buf[i] = 100;
     }
     sector_erase(SPI_PORT, SPI_CS_PIN, target_address);
