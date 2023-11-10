@@ -51,7 +51,7 @@ static inline void cs_deselect(uint cs_pin){
     gpio_put(cs_pin, 1);
 }
 
-// Get the index of a key in the keys array
+// Function to get the index of a key in the keys array
 int getIndex(char key[]){
     for (int i = 0; i < MAX_SIZE; i++) { 
         if (strcmp(keys[i], key) == 0) { 
@@ -61,7 +61,7 @@ int getIndex(char key[]){
     return -1; // Key not found 
 }
 
-// To get value of a key in the map
+// Function to get value of a key in the map
 char* check_item(char key[]) 
 { 
     int index = getIndex(key); 
@@ -74,8 +74,8 @@ char* check_item(char key[])
         return values[index]; 
     }
 }
-
-void printMap() 
+// Function to list all the items
+void printAllItems()
 { 
     for (int i = 0; i < MAX_SIZE; i++) { 
         printf("%s: %s\n", keys[i], values[i]); 
@@ -91,6 +91,7 @@ void printbuf(uint8_t buf[PAGE_SIZE]) {
     }
 }
 
+// Main function to read the ID of flash chip
 void __not_in_flash_func(read_chip_id)(spi_inst_t *spi, uint cs_pin) {
     printf("Command: Reading ID\n");
     cs_select(cs_pin);
@@ -112,16 +113,22 @@ void __not_in_flash_func(read_chip_id)(spi_inst_t *spi, uint cs_pin) {
     //printf("Device ID: 0x%02X\n", device_id);
 
     if ( buffer4 & CHIP_ID ){
-        printf("\n== Details of connected flash ==\nFlash Type: Winbond Serial Flash\n");
+        printf("\n== Details of connected flash ==\n");
+        sleep_ms(200);  // Sleep added to slow down the processing speed of the pico for print statement
+        printf("Flash Type: Winbond Serial Flash\n");
     }
 
     // Check if the device ID is under the list of known flash type as defined above
     char device_id_str[7];
     snprintf(device_id_str, sizeof(device_id_str), "0x%02X", device_id);
     if (check_item(device_id_str) != NULL){
-        printf("Manufacturer ID: 0x%02X\nDevice ID: 0x%02X\nWinbond Part #: %s\n", (uint16_t)buffer1, device_id, check_item(device_id_str));
+        printf("Manufacturer ID: 0x%02X\n", (uint16_t)buffer1);
+        sleep_ms(200);
+        printf("Device ID: 0x%02X\n", device_id);
+        sleep_ms(200);
+        printf("Winbond Part #: %s\r\n", check_item(device_id_str));
     } else {
-        printf("Unknown flash type.");
+        printf("Unknown flash type.\r\n");
     }
 }
 
@@ -145,7 +152,7 @@ int main() {
 
     sleep_ms(5000);
     printf("Starting...\n");
-    //printMap();
+    //printAllItems();
 
     sleep_ms(2000);
     read_chip_id(SPI_PORT, SPI_CS_PIN);
