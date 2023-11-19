@@ -161,7 +161,7 @@ Discarded input sections
                 0x00000000       0x38 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_ranges  0x00000000       0x98 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_line    0x00000000      0x5e7 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
- .debug_str     0x00000000      0x371 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
+ .debug_str     0x00000000      0x384 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_frame   0x00000000       0x90 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .ARM.attributes
@@ -388,7 +388,7 @@ Discarded input sections
                 0x00000000       0x38 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/timeout_helper.c.obj
  .debug_ranges  0x00000000      0x148 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/timeout_helper.c.obj
  .debug_line    0x00000000      0x633 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/timeout_helper.c.obj
- .debug_str     0x00000000      0x3ff CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/timeout_helper.c.obj
+ .debug_str     0x00000000      0x412 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/timeout_helper.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/timeout_helper.c.obj
  .debug_frame   0x00000000       0x6c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/timeout_helper.c.obj
  .ARM.attributes
@@ -430,7 +430,7 @@ Discarded input sections
                 0x00000000       0x20 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/datetime.c.obj
  .debug_ranges  0x00000000       0x10 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/datetime.c.obj
  .debug_line    0x00000000      0x247 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/datetime.c.obj
- .debug_str     0x00000000      0x216 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/datetime.c.obj
+ .debug_str     0x00000000      0x229 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/datetime.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/datetime.c.obj
  .debug_frame   0x00000000       0x38 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/datetime.c.obj
  .ARM.attributes
@@ -485,7 +485,7 @@ Discarded input sections
                 0x00000000       0x70 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/queue.c.obj
  .debug_ranges  0x00000000      0x630 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/queue.c.obj
  .debug_line    0x00000000      0xa78 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/queue.c.obj
- .debug_str     0x00000000      0x46d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/queue.c.obj
+ .debug_str     0x00000000      0x480 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/queue.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/queue.c.obj
  .debug_frame   0x00000000      0x12c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/queue.c.obj
  .ARM.attributes
@@ -547,7 +547,7 @@ Discarded input sections
                 0x00000000       0x20 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_ranges  0x00000000       0x10 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_line    0x00000000      0x362 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
- .debug_str     0x00000000      0x338 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
+ .debug_str     0x00000000      0x34b CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_frame   0x00000000       0x20 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
  .ARM.attributes
@@ -588,7 +588,7 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x12 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
  .debug_aranges
                 0x00000000       0x40 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
- .debug_str     0x00000000       0x88 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
+ .debug_str     0x00000000       0x9b CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
  .debug_ranges  0x00000000       0x38 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
  .ARM.attributes
                 0x00000000       0x22 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
@@ -782,7 +782,7 @@ Discarded input sections
                 0x00000000      0x130 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
  .debug_ranges  0x00000000      0x5e8 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
  .debug_line    0x00000000     0x2cef CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
- .debug_str     0x00000000      0x51a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
+ .debug_str     0x00000000      0x52d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
  .debug_frame   0x00000000      0x440 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
  .ARM.attributes
@@ -947,7 +947,7 @@ Discarded input sections
                 0x00000000      0x128 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
  .debug_ranges  0x00000000      0x568 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
  .debug_line    0x00000000     0x2845 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
- .debug_str     0x00000000      0x52d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
+ .debug_str     0x00000000      0x540 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
  .debug_frame   0x00000000      0x3a4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
  .ARM.attributes
@@ -987,7 +987,7 @@ Discarded input sections
                 0x00000000       0x48 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
  .debug_ranges  0x00000000       0x38 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
  .debug_line    0x00000000      0x317 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
- .debug_str     0x00000000      0x398 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
+ .debug_str     0x00000000      0x3ab CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
  .debug_frame   0x00000000       0xa0 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
  .ARM.attributes
@@ -1135,7 +1135,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
- .debug_str     0x00000000      0x195 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
+ .debug_str     0x00000000      0x1a8 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
@@ -1162,7 +1162,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
- .debug_str     0x00000000      0x191 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+ .debug_str     0x00000000      0x1a4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
@@ -1174,7 +1174,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
- .debug_str     0x00000000      0x194 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+ .debug_str     0x00000000      0x1a7 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
@@ -1186,7 +1186,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
- .debug_str     0x00000000      0x191 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
+ .debug_str     0x00000000      0x1a4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
@@ -1198,7 +1198,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
- .debug_str     0x00000000      0x193 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
+ .debug_str     0x00000000      0x1a6 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
@@ -1210,7 +1210,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
- .debug_str     0x00000000      0x191 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
+ .debug_str     0x00000000      0x1a4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
@@ -1222,7 +1222,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
- .debug_str     0x00000000      0x197 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+ .debug_str     0x00000000      0x1aa CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
@@ -1234,7 +1234,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
- .debug_str     0x00000000      0x191 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
+ .debug_str     0x00000000      0x1a4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
@@ -1246,7 +1246,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
- .debug_str     0x00000000      0x197 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+ .debug_str     0x00000000      0x1aa CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
@@ -1258,7 +1258,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
- .debug_str     0x00000000      0x197 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+ .debug_str     0x00000000      0x1aa CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
@@ -1270,7 +1270,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
- .debug_str     0x00000000      0x195 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
+ .debug_str     0x00000000      0x1a8 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
@@ -1282,7 +1282,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/pio_usb/dcd_pio_usb.c.obj
  .debug_line    0x00000000       0x1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/pio_usb/dcd_pio_usb.c.obj
- .debug_str     0x00000000      0x1a5 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/pio_usb/dcd_pio_usb.c.obj
+ .debug_str     0x00000000      0x1b8 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/pio_usb/dcd_pio_usb.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/pio_usb/dcd_pio_usb.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/pio_usb/dcd_pio_usb.c.obj
@@ -1343,7 +1343,7 @@ Discarded input sections
                 0x00000000       0x20 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .debug_ranges  0x00000000       0x10 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .debug_line    0x00000000       0xc1 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_str     0x00000000      0x1e8 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_str     0x00000000      0x1fb CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .debug_frame   0x00000000       0x20 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .ARM.attributes
@@ -1436,8 +1436,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/demo_logging.c.obj
  .debug_ranges  0x00000000       0x10 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/demo_logging.c.obj
- .debug_line    0x00000000      0x20c CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/demo_logging.c.obj
- .debug_str     0x00000000      0x5d2 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/demo_logging.c.obj
+ .debug_line    0x00000000      0x21f CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/demo_logging.c.obj
+ .debug_str     0x00000000      0x5f8 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/demo_logging.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/demo_logging.c.obj
  .debug_frame   0x00000000       0x30 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/demo_logging.c.obj
  .ARM.attributes
@@ -1475,8 +1475,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/f_util.c.obj
  .debug_ranges  0x00000000       0x18 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/f_util.c.obj
- .debug_line    0x00000000      0x344 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/f_util.c.obj
- .debug_str     0x00000000      0x4a0 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/f_util.c.obj
+ .debug_line    0x00000000      0x36a CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/f_util.c.obj
+ .debug_str     0x00000000      0x4c6 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/f_util.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/f_util.c.obj
  .debug_frame   0x00000000       0x4c CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/f_util.c.obj
  .ARM.attributes
@@ -1497,7 +1497,7 @@ Discarded input sections
  .text.ff_fclose
                 0x00000000       0x2c CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
  .rodata.ff_stat.str1.4
-                0x00000000       0x59 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
+                0x00000000       0x6c CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
  .text.ff_stat  0x00000000       0x50 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
  .text.ff_fwrite
                 0x00000000       0x34 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
@@ -1557,8 +1557,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xc8 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
  .debug_ranges  0x00000000       0xd0 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
- .debug_line    0x00000000      0xc42 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
- .debug_str     0x00000000      0x79f CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
+ .debug_line    0x00000000      0xc7b CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
+ .debug_str     0x00000000      0x7c5 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
  .comment       0x00000000       0x4a CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
  .debug_frame   0x00000000      0x294 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/ff_stdio.c.obj
  .ARM.attributes
@@ -1640,9 +1640,9 @@ Discarded input sections
                 0x00000000        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_rtc/rtc.c.obj
  .rodata.__func__.0
                 0x00000000        0x9 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_rtc/rtc.c.obj
- .text          0x00000000        0x0 C:\Users\yccwa\AppData\Local\Temp\ccoKJQHo.o
- .data          0x00000000        0x0 C:\Users\yccwa\AppData\Local\Temp\ccoKJQHo.o
- .bss           0x00000000        0x0 C:\Users\yccwa\AppData\Local\Temp\ccoKJQHo.o
+ .text          0x00000000        0x0 C:\Users\yccwa\AppData\Local\Temp\cccHEvkm.o
+ .data          0x00000000        0x0 C:\Users\yccwa\AppData\Local\Temp\cccHEvkm.o
+ .bss           0x00000000        0x0 C:\Users\yccwa\AppData\Local\Temp\cccHEvkm.o
  .data          0x00000000        0x0 d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .bss           0x00000000        0x0 d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .text          0x00000000        0x0 d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-calloc.o)
@@ -2162,7 +2162,7 @@ LOAD d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/g
 .boot2          0x10000000      0x100
                 0x10000000                __boot2_start__ = .
  *(.boot2)
- .boot2         0x10000000      0x100 C:\Users\yccwa\AppData\Local\Temp\ccoKJQHo.o
+ .boot2         0x10000000      0x100 C:\Users\yccwa\AppData\Local\Temp\cccHEvkm.o
                 0x10000100                __boot2_end__ = .
                 0x00000001                ASSERT (((__boot2_end__ - __boot2_start__) == 0x100), ERROR: Pico second stage bootloader must be 256 bytes in size)
 
@@ -3407,7 +3407,7 @@ LOAD d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/g
 .iplt           0x1000dc48        0x0
  .iplt          0x1000dc48        0x0 d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
-.rodata         0x1000dc48     0x2e7c
+.rodata         0x1000dc48     0x2eb4
  *(EXCLUDE_FILE(*libm.a: *libc.a:*lib_a-mem*.o *libgcc.a:) .rodata*)
  .rodata.read_file.str1.4
                 0x1000dc48       0x7e CMakeFiles/sdcard.dir/SDCard.c.obj
@@ -3750,167 +3750,166 @@ LOAD d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/g
                 0x1000fc30        0xd CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ff.c.obj
  *fill*         0x1000fc3d        0x3 
  .rodata.sd_spi_write.str1.4
-                0x1000fc40       0x55 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
+                0x1000fc40       0x68 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
  .rodata.sd_spi_send_initializing_sequence.str1.4
-                0x1000fc95       0x7c CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
- *fill*         0x1000fc95        0x3 
+                0x1000fca8       0x7c CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
  .rodata.__func__.0
-                0x1000fc98       0x15 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
- *fill*         0x1000fcad        0x3 
- .rodata.__func__.1
-                0x1000fcb0        0xd CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
+                0x1000fca8       0x15 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
  *fill*         0x1000fcbd        0x3 
+ .rodata.__func__.1
+                0x1000fcc0        0xd CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
+ *fill*         0x1000fccd        0x3 
  .rodata.in_spi_irq_handler.str1.4
-                0x1000fcc0       0x8f CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
- *fill*         0x1000fd4f        0x1 
+                0x1000fcd0       0xa3 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+ *fill*         0x1000fd73        0x1 
  .rodata.str1.4
-                0x1000fd50       0xac CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+                0x1000fd74       0xac CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
                                  0xb4 (size before relaxing)
  .rodata.spi_lock.str1.4
-                0x1000fdfc       0x24 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+                0x1000fe20       0x24 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
  .rodata.my_spi_init.str1.4
-                0x1000fe20       0x9f CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
- *fill*         0x1000febf        0x1 
+                0x1000fe44       0x9f CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+ *fill*         0x1000fee3        0x1 
  .rodata.__FUNCTION__.9
-                0x1000fec0        0xd CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
- *fill*         0x1000fecd        0x3 
+                0x1000fee4        0xd CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+ *fill*         0x1000fef1        0x3 
  .rodata.__func__.0
-                0x1000fed0       0x18 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+                0x1000fef4       0x18 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
  .rodata.__func__.12
-                0x1000fee8        0xd CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
- *fill*         0x1000fef5        0x3 
+                0x1000ff0c        0xd CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+ *fill*         0x1000ff19        0x3 
  .rodata.__func__.3
-                0x1000fef8       0x1c CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+                0x1000ff1c       0x1c CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
  .rodata.__func__.4
-                0x1000ff14       0x13 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
- *fill*         0x1000ff27        0x1 
+                0x1000ff38       0x13 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+ *fill*         0x1000ff4b        0x1 
  .rodata.__func__.5
-                0x1000ff28        0xc CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+                0x1000ff4c        0xc CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
  .rodata.__func__.7
-                0x1000ff34        0xb CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
- *fill*         0x1000ff3f        0x1 
+                0x1000ff58        0xb CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+ *fill*         0x1000ff63        0x1 
  .rodata.__func__.8
-                0x1000ff40        0x9 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+                0x1000ff64        0x9 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
  .rodata.dummy.11
-                0x1000ff49        0x1 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
- *fill*         0x1000ff4a        0x2 
+                0x1000ff6d        0x1 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+ *fill*         0x1000ff6e        0x2 
  .rodata.sd_lock.str1.4
-                0x1000ff4c       0x72 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x1000ffbe        0x2 
+                0x1000ff70       0x85 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x1000fff5        0x3 
  .rodata.sd_wait_token.str1.4
-                0x1000ffc0       0x19 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+                0x1000fff8       0x19 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
                                  0x95 (size before relaxing)
- *fill*         0x1000ffd9        0x3 
+ *fill*         0x10010011        0x3 
  .rodata.sd_read_bytes.str1.4
-                0x1000ffdc       0x5e CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x1001003a        0x2 
+                0x10010014       0x5e CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x10010072        0x2 
  .rodata.sd_read_block.str1.4
-                0x1001003c       0x3d CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x10010079        0x3 
+                0x10010074       0x3d CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x100100b1        0x3 
  .rodata.sd_wait_ready.str1.4
-                0x1001007c        0xc CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+                0x100100b4        0xc CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
  .rodata.sd_cmd.str1.4
-                0x10010088      0x36a CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x100103f2        0x2 
+                0x100100c0      0x36a CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x1001042a        0x2 
  .rodata.sd_cmd8.str1.4
-                0x100103f4       0x26 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x1001041a        0x2 
+                0x1001042c       0x26 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x10010452        0x2 
  .rodata.sd_sectors_nolock.str1.4
-                0x1001041c      0x13a CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x10010556        0x2 
+                0x10010454      0x13a CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x1001058e        0x2 
  .rodata.sd_init_medium.str1.4
-                0x10010558       0xdd CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x10010635        0x3 
+                0x10010590       0xdd CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x1001066d        0x3 
  .rodata.sd_write_block.str1.4
-                0x10010638        0x4 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+                0x10010670        0x4 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
  .rodata.in_sd_write_blocks.str1.4
-                0x1001063c       0x48 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+                0x10010674       0x48 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
  .rodata.sd_card_detect.str1.4
-                0x10010684       0x16 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x1001069a        0x2 
+                0x100106bc       0x16 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x100106d2        0x2 
  .rodata.sd_init.str1.4
-                0x1001069c       0x53 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+                0x100106d4       0x53 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
  .rodata.str1.4
-                0x100106ef        0x3 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x100106ef        0x1 
+                0x10010727        0x3 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x10010727        0x1 
  .rodata.__FUNCTION__.2
-                0x100106f0        0xe CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x100106fe        0x2 
+                0x10010728        0xe CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x10010736        0x2 
  .rodata.__FUNCTION__.5
-                0x10010700        0xe CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x1001070e        0x2 
+                0x10010738        0xe CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x10010746        0x2 
  .rodata.__func__.1
-                0x10010710        0xf CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x1001071f        0x1 
+                0x10010748        0xf CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x10010757        0x1 
  .rodata.__func__.3
-                0x10010720        0xa CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x1001072a        0x2 
+                0x10010758        0xa CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x10010762        0x2 
  .rodata.__func__.4
-                0x1001072c       0x15 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x10010741        0x3 
+                0x10010764       0x15 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x10010779        0x3 
  .rodata.__func__.6
-                0x10010744       0x12 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- *fill*         0x10010756        0x2 
+                0x1001077c       0x12 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ *fill*         0x1001078e        0x2 
  .rodata.__func__.7
-                0x10010758        0x8 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+                0x10010790        0x8 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
  .rodata.m_Crc16Table
-                0x10010760      0x200 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/crc.c.obj
+                0x10010798      0x200 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/crc.c.obj
  .rodata.m_Crc7Table
-                0x10010960      0x100 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/crc.c.obj
+                0x10010998      0x100 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/crc.c.obj
  .rodata.my_printf.str1.4
-                0x10010a60        0x3 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/my_debug.c.obj
- *fill*         0x10010a63        0x1 
+                0x10010a98        0x3 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/my_debug.c.obj
+ *fill*         0x10010a9b        0x1 
  .rodata.my_assert_func.str1.4
-                0x10010a64       0x39 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/my_debug.c.obj
- *fill*         0x10010a9d        0x3 
+                0x10010a9c       0x39 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/my_debug.c.obj
+ *fill*         0x10010ad5        0x3 
  .rodata.dma_claim_unused_channel.str1.4
-                0x10010aa0       0x1e CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
- *fill*         0x10010abe        0x2 
+                0x10010ad8       0x1e CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
+ *fill*         0x10010af6        0x2 
  .rodata._global_impure_ptr
-                0x10010ac0        0x4 d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
-                0x10010ac0                _global_impure_ptr
-                0x10010ac4                . = ALIGN (0x4)
+                0x10010af8        0x4 d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+                0x10010af8                _global_impure_ptr
+                0x10010afc                . = ALIGN (0x4)
  *(SORT_BY_ALIGNMENT(SORT_BY_NAME(.flashdata*)))
-                0x10010ac4                . = ALIGN (0x4)
+                0x10010afc                . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x10010ac4                __exidx_start = .
+                0x10010afc                __exidx_start = .
 
 .ARM.exidx
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
-                0x10010ac4                __exidx_end = .
-                0x10010ac4                . = ALIGN (0x4)
-                0x10010ac4                __binary_info_start = .
+                0x10010afc                __exidx_end = .
+                0x10010afc                . = ALIGN (0x4)
+                0x10010afc                __binary_info_start = .
 
-.binary_info    0x10010ac4       0x28
+.binary_info    0x10010afc       0x28
  *(.binary_info.keep.*)
  .binary_info.keep.__bi_ptr22
-                0x10010ac4        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10010afc        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr30
-                0x10010ac8        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10010b00        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr38
-                0x10010acc        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10010b04        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr44
-                0x10010ad0        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10010b08        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr50
-                0x10010ad4        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10010b0c        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr75
-                0x10010ad8        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10010b10        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr81
-                0x10010adc        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10010b14        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  *(.binary_info.*)
  .binary_info.__bi_ptr33
-                0x10010ae0        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+                0x10010b18        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
  .binary_info.__bi_ptr34
-                0x10010ae4        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+                0x10010b1c        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
  .binary_info.__bi_ptr182
-                0x10010ae8        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x10010aec                __binary_info_end = .
+                0x10010b20        0x4 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x10010b24                __binary_info_end = .
 
-.rel.dyn        0x10010aec        0x0
- .rel.iplt      0x10010aec        0x0 d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
-                0x10010aec                . = ALIGN (0x4)
+.rel.dyn        0x10010b24        0x0
+ .rel.iplt      0x10010b24        0x0 d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x10010b24                . = ALIGN (0x4)
 
 .ram_vector_table
                 0x20000000       0xc0
@@ -3919,7 +3918,7 @@ LOAD d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/g
                 0x20000000       0xc0 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
                 0x20000000                ram_vector_table
 
-.data           0x200000c0     0x1b50 load address 0x10010aec
+.data           0x200000c0     0x1b50 load address 0x10010b24
                 0x200000c0                __data_start__ = .
  *(vtable)
  *(.time_critical*)
@@ -4112,29 +4111,29 @@ LOAD d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/g
  *(.jcr)
                 0x20001c10                . = ALIGN (0x4)
                 0x20001c10                __data_end__ = .
-                0x10010aec                __etext = LOADADDR (.data)
+                0x10010b24                __etext = LOADADDR (.data)
 
-.igot.plt       0x20001c10        0x0 load address 0x1001263c
+.igot.plt       0x20001c10        0x0 load address 0x10012674
  .igot.plt      0x20001c10        0x0 d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
 .uninitialized_data
-                0x20001c10        0x0 load address 0x1001263c
+                0x20001c10        0x0 load address 0x10012674
                 0x20001c10                . = ALIGN (0x4)
  *(.uninitialized_data*)
 
-.scratch_x      0x20040000        0x0 load address 0x1001263c
+.scratch_x      0x20040000        0x0 load address 0x10012674
                 0x20040000                __scratch_x_start__ = .
  *(.scratch_x.*)
                 0x20040000                . = ALIGN (0x4)
                 0x20040000                __scratch_x_end__ = .
-                0x1001263c                __scratch_x_source__ = LOADADDR (.scratch_x)
+                0x10012674                __scratch_x_source__ = LOADADDR (.scratch_x)
 
-.scratch_y      0x20041000        0x0 load address 0x1001263c
+.scratch_y      0x20041000        0x0 load address 0x10012674
                 0x20041000                __scratch_y_start__ = .
  *(.scratch_y.*)
                 0x20041000                . = ALIGN (0x4)
                 0x20041000                __scratch_y_end__ = .
-                0x1001263c                __scratch_y_source__ = LOADADDR (.scratch_y)
+                0x10012674                __scratch_y_source__ = LOADADDR (.scratch_y)
 
 .bss            0x20001c10     0x1018
                 0x20001c10                . = ALIGN (0x4)
@@ -4301,8 +4300,8 @@ LOAD d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/g
  *(.stack*)
  .stack         0x20041000      0x800 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
 
-.flash_end      0x1001263c        0x0
-                0x1001263c                PROVIDE (__flash_binary_end = .)
+.flash_end      0x10012674        0x0
+                0x10012674                PROVIDE (__flash_binary_end = .)
                 0x20040000                __StackLimit = (ORIGIN (RAM) + LENGTH (RAM))
                 0x20041000                __StackOneTop = (ORIGIN (SCRATCH_X) + LENGTH (SCRATCH_X))
                 0x20042000                __StackTop = (ORIGIN (SCRATCH_Y) + LENGTH (SCRATCH_Y))
@@ -4398,7 +4397,7 @@ LOAD CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/my_debug.c.
 LOAD CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/rtc.c.obj
 LOAD CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
 LOAD CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_rtc/rtc.c.obj
-LOAD C:\Users\yccwa\AppData\Local\Temp\ccoKJQHo.o
+LOAD C:\Users\yccwa\AppData\Local\Temp\cccHEvkm.o
 LOAD d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a
 LOAD d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
 START GROUP
@@ -4545,7 +4544,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x00000a40       0x2c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_rtc/rtc.c.obj
  .ARM.attributes
-                0x00000a6c       0x22 C:\Users\yccwa\AppData\Local\Temp\ccoKJQHo.o
+                0x00000a6c       0x22 C:\Users\yccwa\AppData\Local\Temp\cccHEvkm.o
  .ARM.attributes
                 0x00000a8e       0x1e d:/programfiles/raspberry pi/pico sdk v1.5.1/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
@@ -5002,189 +5001,189 @@ LOAD linker stubs
  .debug_ranges  0x000064b0       0xb0 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
  .debug_ranges  0x00006560       0x70 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_rtc/rtc.c.obj
 
-.debug_line     0x00000000    0x29bed
- .debug_line    0x00000000      0x71b CMakeFiles/sdcard.dir/SDCard.c.obj
- .debug_line    0x0000071b      0xdd3 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
- .debug_line    0x000014ee      0x315 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
- .debug_line    0x00001803      0x520 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
- .debug_line    0x00001d23      0x51d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
- .debug_line    0x00002240     0x1167 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- .debug_line    0x000033a7      0xb5d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/sem.c.obj
- .debug_line    0x00003f04      0x2b6 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/lock_core.c.obj
- .debug_line    0x000041ba     0x11a8 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj
- .debug_line    0x00005362      0x341 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/critical_section.c.obj
- .debug_line    0x000056a3     0x1cef CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- .debug_line    0x00007392      0xd3d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- .debug_line    0x000080cf      0x928 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
- .debug_line    0x000089f7      0x9dd CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
- .debug_line    0x000093d4      0xb1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
- .debug_line    0x00009ef1      0x647 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
- .debug_line    0x0000a538      0x484 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
- .debug_line    0x0000a9bc      0x328 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
- .debug_line    0x0000ace4      0xc57 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
- .debug_line    0x0000b93b     0x12ab CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- .debug_line    0x0000cbe6      0x162 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
- .debug_line    0x0000cd48      0x295 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
- .debug_line    0x0000cfdd      0x2eb CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
- .debug_line    0x0000d2c8      0x43b CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
- .debug_line    0x0000d703      0x40a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
- .debug_line    0x0000db0d       0xac CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .debug_line    0x0000dbb9       0xb2 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
- .debug_line    0x0000dc6b      0x3ea CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
- .debug_line    0x0000e055      0x3d2 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
- .debug_line    0x0000e427      0x29d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
- .debug_line    0x0000e6c4       0xdc CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
- .debug_line    0x0000e7a0       0xea CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
- .debug_line    0x0000e88a      0x23a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
- .debug_line    0x0000eac4     0x1081 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- .debug_line    0x0000fb45      0xc21 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
- .debug_line    0x00010766      0x517 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
- .debug_line    0x00010c7d      0xf41 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .debug_line    0x00011bbe      0x373 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- .debug_line    0x00011f31      0x464 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
- .debug_line    0x00012395      0x8b9 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
- .debug_line    0x00012c4e      0xfaa CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- .debug_line    0x00013bf8      0xb1a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
- .debug_line    0x00014712     0x20e3 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
- .debug_line    0x000167f5      0x4e9 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
- .debug_line    0x00016cde      0xecc CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
- .debug_line    0x00017baa      0xc81 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/tusb.c.obj
- .debug_line    0x0001882b     0x15c9 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
- .debug_line    0x00019df4      0xf28 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
- .debug_line    0x0001ad1c      0x183 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ffsystem.c.obj
- .debug_line    0x0001ae9f      0x3a3 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ffunicode.c.obj
- .debug_line    0x0001b242     0x8e10 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ff.c.obj
- .debug_line    0x00024052      0xb64 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
- .debug_line    0x00024bb6     0x1268 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
- .debug_line    0x00025e1e     0x1b69 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
- .debug_line    0x00027987      0x25a CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/crc.c.obj
- .debug_line    0x00027be1      0x66c CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/glue.c.obj
- .debug_line    0x0002824d      0x234 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/my_debug.c.obj
- .debug_line    0x00028481      0x5ba CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/rtc.c.obj
- .debug_line    0x00028a3b      0x74a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
- .debug_line    0x00029185      0xa68 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_rtc/rtc.c.obj
+.debug_line     0x00000000    0x29d8f
+ .debug_line    0x00000000      0x754 CMakeFiles/sdcard.dir/SDCard.c.obj
+ .debug_line    0x00000754      0xdd3 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+ .debug_line    0x00001527      0x315 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
+ .debug_line    0x0000183c      0x520 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+ .debug_line    0x00001d5c      0x51d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+ .debug_line    0x00002279     0x1167 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+ .debug_line    0x000033e0      0xb5d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/sem.c.obj
+ .debug_line    0x00003f3d      0x2b6 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/lock_core.c.obj
+ .debug_line    0x000041f3     0x11a8 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj
+ .debug_line    0x0000539b      0x341 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/critical_section.c.obj
+ .debug_line    0x000056dc     0x1cef CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
+ .debug_line    0x000073cb      0xd3d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+ .debug_line    0x00008108      0x928 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
+ .debug_line    0x00008a30      0x9dd CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
+ .debug_line    0x0000940d      0xb1d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+ .debug_line    0x00009f2a      0x647 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
+ .debug_line    0x0000a571      0x484 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+ .debug_line    0x0000a9f5      0x328 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
+ .debug_line    0x0000ad1d      0xc57 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+ .debug_line    0x0000b974     0x12ab CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ .debug_line    0x0000cc1f      0x162 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+ .debug_line    0x0000cd81      0x295 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+ .debug_line    0x0000d016      0x2eb CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+ .debug_line    0x0000d301      0x43b CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+ .debug_line    0x0000d73c      0x40a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+ .debug_line    0x0000db46       0xac CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+ .debug_line    0x0000dbf2       0xb2 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+ .debug_line    0x0000dca4      0x3ea CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
+ .debug_line    0x0000e08e      0x3d2 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+ .debug_line    0x0000e460      0x29d CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
+ .debug_line    0x0000e6fd       0xdc CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+ .debug_line    0x0000e7d9       0xea CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
+ .debug_line    0x0000e8c3      0x23a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+ .debug_line    0x0000eafd     0x1081 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+ .debug_line    0x0000fb7e      0xc21 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+ .debug_line    0x0001079f      0x517 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+ .debug_line    0x00010cb6      0xf41 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .debug_line    0x00011bf7      0x373 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ .debug_line    0x00011f6a      0x464 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+ .debug_line    0x000123ce      0x8b9 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+ .debug_line    0x00012c87      0xfaa CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+ .debug_line    0x00013c31      0xb1a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+ .debug_line    0x0001474b     0x20e3 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+ .debug_line    0x0001682e      0x4e9 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+ .debug_line    0x00016d17      0xecc CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+ .debug_line    0x00017be3      0xc81 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/tusb.c.obj
+ .debug_line    0x00018864     0x15c9 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+ .debug_line    0x00019e2d      0xf28 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
+ .debug_line    0x0001ad55      0x196 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ffsystem.c.obj
+ .debug_line    0x0001aeeb      0x3b6 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ffunicode.c.obj
+ .debug_line    0x0001b2a1     0x8e23 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ff.c.obj
+ .debug_line    0x000240c4      0xb9d CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
+ .debug_line    0x00024c61     0x128e CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+ .debug_line    0x00025eef     0x1ba2 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+ .debug_line    0x00027a91      0x26d CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/crc.c.obj
+ .debug_line    0x00027cfe      0x6a5 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/glue.c.obj
+ .debug_line    0x000283a3      0x247 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/my_debug.c.obj
+ .debug_line    0x000285ea      0x5f3 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/rtc.c.obj
+ .debug_line    0x00028bdd      0x74a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
+ .debug_line    0x00029327      0xa68 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_rtc/rtc.c.obj
 
-.debug_str      0x00000000     0x9b86
- .debug_str     0x00000000      0x4b6 CMakeFiles/sdcard.dir/SDCard.c.obj
-                                0x566 (size before relaxing)
- .debug_str     0x000004b6      0x816 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                                0xa07 (size before relaxing)
- .debug_str     0x00000ccc       0x97 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
-                                0x22e (size before relaxing)
- .debug_str     0x00000d63      0x1d2 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
-                                0x372 (size before relaxing)
- .debug_str     0x00000f35      0x107 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                                0x359 (size before relaxing)
- .debug_str     0x0000103c      0x3f8 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                                0x7d7 (size before relaxing)
- .debug_str     0x00001434      0x22f CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/sem.c.obj
-                                0x506 (size before relaxing)
- .debug_str     0x00001663       0x63 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/lock_core.c.obj
-                                0x20f (size before relaxing)
- .debug_str     0x000016c6      0x179 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj
-                                0x601 (size before relaxing)
- .debug_str     0x0000183f       0xe6 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/critical_section.c.obj
-                                0x2cf (size before relaxing)
- .debug_str     0x00001925      0x718 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
-                                0xc63 (size before relaxing)
- .debug_str     0x0000203d      0x166 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                                0x72b (size before relaxing)
- .debug_str     0x000021a3      0x101 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
-                                0x3f8 (size before relaxing)
- .debug_str     0x000022a4      0x36b CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
-                                0x61e (size before relaxing)
- .debug_str     0x0000260f      0x2bd CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
-                                0x6c8 (size before relaxing)
- .debug_str     0x000028cc       0xa2 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
-                                0x2ea (size before relaxing)
- .debug_str     0x0000296e      0x13a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
-                                0x330 (size before relaxing)
- .debug_str     0x00002aa8       0x86 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
-                                0x22d (size before relaxing)
- .debug_str     0x00002b2e      0x2ec CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                                0x7f0 (size before relaxing)
- .debug_str     0x00002e1a      0x276 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
-                                0x48e (size before relaxing)
- .debug_str     0x00003090       0x70 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
-                                 0x8a (size before relaxing)
- .debug_str     0x00003100       0xdf CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                                0x268 (size before relaxing)
- .debug_str     0x000031df       0x5c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                                 0x84 (size before relaxing)
- .debug_str     0x0000323b       0x60 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                                 0x88 (size before relaxing)
- .debug_str     0x0000329b       0xd1 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
-                                0x2c0 (size before relaxing)
- .debug_str     0x0000336c       0x66 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                                 0x8e (size before relaxing)
- .debug_str     0x000033d2       0x6b CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
-                                 0x93 (size before relaxing)
- .debug_str     0x0000343d       0x5e CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
-                                 0x86 (size before relaxing)
- .debug_str     0x0000349b       0x95 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
-                                0x2a8 (size before relaxing)
- .debug_str     0x00003530       0xd9 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
-                                0x23c (size before relaxing)
- .debug_str     0x00003609       0x62 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                                 0x8a (size before relaxing)
- .debug_str     0x0000366b       0x5f CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
-                                 0x87 (size before relaxing)
- .debug_str     0x000036ca      0x25f CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
-                                0x3f0 (size before relaxing)
- .debug_str     0x00003929      0x4d0 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                                0x9d6 (size before relaxing)
- .debug_str     0x00003df9      0x352 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-                                0x8e9 (size before relaxing)
- .debug_str     0x0000414b      0x54e CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
-                                0x774 (size before relaxing)
- .debug_str     0x00004699      0x357 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                                0xafa (size before relaxing)
- .debug_str     0x000049f0      0xafd CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-                                0xe5f (size before relaxing)
- .debug_str     0x000054ed       0xdb CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
-                                0x281 (size before relaxing)
- .debug_str     0x000055c8      0x323 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
-                                0x604 (size before relaxing)
- .debug_str     0x000058eb      0xa25 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                                0xebe (size before relaxing)
- .debug_str     0x00006310      0x160 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
-                                0x81f (size before relaxing)
- .debug_str     0x00006470      0x94f CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                               0x16e5 (size before relaxing)
- .debug_str     0x00006dbf      0x106 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                                0x529 (size before relaxing)
- .debug_str     0x00006ec5      0x737 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                               0x1516 (size before relaxing)
- .debug_str     0x000075fc      0x234 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                                0xacf (size before relaxing)
- .debug_str     0x00007830      0x3ca CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                                0x751 (size before relaxing)
- .debug_str     0x00007bfa      0x23f CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
-                                0x5ab (size before relaxing)
- .debug_str     0x00007e39       0x75 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ffsystem.c.obj
-                                0x1c6 (size before relaxing)
- .debug_str     0x00007eae       0x84 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ffunicode.c.obj
-                                0x1ea (size before relaxing)
- .debug_str     0x00007f32      0x6ce CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ff.c.obj
-                                0xd14 (size before relaxing)
- .debug_str     0x00008600      0x2a2 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
-                                0xa98 (size before relaxing)
- .debug_str     0x000088a2      0x603 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
-                                0xd89 (size before relaxing)
- .debug_str     0x00008ea5      0x4c0 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
-                                0xf62 (size before relaxing)
- .debug_str     0x00009365       0x77 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/crc.c.obj
-                                0x178 (size before relaxing)
- .debug_str     0x000093dc       0x6c CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/glue.c.obj
-                                0x64e (size before relaxing)
- .debug_str     0x00009448      0x3c4 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/my_debug.c.obj
-                                0x5e6 (size before relaxing)
- .debug_str     0x0000980c       0xeb CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/rtc.c.obj
-                                0x342 (size before relaxing)
- .debug_str     0x000098f7      0x16c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
-                                0x5e6 (size before relaxing)
- .debug_str     0x00009a63      0x123 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_rtc/rtc.c.obj
-                                0x492 (size before relaxing)
+.debug_str      0x00000000     0x9c6a
+ .debug_str     0x00000000      0x4dc CMakeFiles/sdcard.dir/SDCard.c.obj
+                                0x58c (size before relaxing)
+ .debug_str     0x000004dc      0x816 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                                0xa1a (size before relaxing)
+ .debug_str     0x00000cf2       0x97 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
+                                0x241 (size before relaxing)
+ .debug_str     0x00000d89      0x1d2 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                                0x385 (size before relaxing)
+ .debug_str     0x00000f5b      0x107 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                                0x36c (size before relaxing)
+ .debug_str     0x00001062      0x3f8 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                                0x7ea (size before relaxing)
+ .debug_str     0x0000145a      0x22f CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/sem.c.obj
+                                0x519 (size before relaxing)
+ .debug_str     0x00001689       0x63 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/lock_core.c.obj
+                                0x222 (size before relaxing)
+ .debug_str     0x000016ec      0x179 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj
+                                0x614 (size before relaxing)
+ .debug_str     0x00001865       0xe6 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/critical_section.c.obj
+                                0x2e2 (size before relaxing)
+ .debug_str     0x0000194b      0x718 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
+                                0xc76 (size before relaxing)
+ .debug_str     0x00002063      0x166 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                                0x73e (size before relaxing)
+ .debug_str     0x000021c9      0x101 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
+                                0x40b (size before relaxing)
+ .debug_str     0x000022ca      0x36b CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
+                                0x631 (size before relaxing)
+ .debug_str     0x00002635      0x2bd CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                                0x6db (size before relaxing)
+ .debug_str     0x000028f2       0xa2 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
+                                0x2fd (size before relaxing)
+ .debug_str     0x00002994      0x13a CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                                0x343 (size before relaxing)
+ .debug_str     0x00002ace       0x86 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
+                                0x240 (size before relaxing)
+ .debug_str     0x00002b54      0x2ec CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                                0x803 (size before relaxing)
+ .debug_str     0x00002e40      0x276 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                                0x4a1 (size before relaxing)
+ .debug_str     0x000030b6       0x70 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+                                 0x9d (size before relaxing)
+ .debug_str     0x00003126       0xdf CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                                0x27b (size before relaxing)
+ .debug_str     0x00003205       0x5c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                                 0x97 (size before relaxing)
+ .debug_str     0x00003261       0x60 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                                 0x9b (size before relaxing)
+ .debug_str     0x000032c1       0xd1 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+                                0x2d3 (size before relaxing)
+ .debug_str     0x00003392       0x66 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                                 0xa1 (size before relaxing)
+ .debug_str     0x000033f8       0x6b CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+                                 0xa6 (size before relaxing)
+ .debug_str     0x00003463       0x5e CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
+                                 0x99 (size before relaxing)
+ .debug_str     0x000034c1       0x95 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+                                0x2bb (size before relaxing)
+ .debug_str     0x00003556       0xd9 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
+                                0x24f (size before relaxing)
+ .debug_str     0x0000362f       0x62 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                                 0x9d (size before relaxing)
+ .debug_str     0x00003691       0x5f CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
+                                 0x9a (size before relaxing)
+ .debug_str     0x000036f0      0x25f CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                                0x403 (size before relaxing)
+ .debug_str     0x0000394f      0x4d0 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                                0x9e9 (size before relaxing)
+ .debug_str     0x00003e1f      0x352 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+                                0x8fc (size before relaxing)
+ .debug_str     0x00004171      0x54e CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                                0x787 (size before relaxing)
+ .debug_str     0x000046bf      0x357 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                                0xb0d (size before relaxing)
+ .debug_str     0x00004a16      0xafd CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                                0xe72 (size before relaxing)
+ .debug_str     0x00005513       0xdb CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+                                0x294 (size before relaxing)
+ .debug_str     0x000055ee      0x323 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+                                0x617 (size before relaxing)
+ .debug_str     0x00005911      0xa25 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                                0xed1 (size before relaxing)
+ .debug_str     0x00006336      0x160 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+                                0x832 (size before relaxing)
+ .debug_str     0x00006496      0x94f CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                               0x16f8 (size before relaxing)
+ .debug_str     0x00006de5      0x106 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                                0x53c (size before relaxing)
+ .debug_str     0x00006eeb      0x737 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                               0x1529 (size before relaxing)
+ .debug_str     0x00007622      0x234 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                                0xae2 (size before relaxing)
+ .debug_str     0x00007856      0x3ca CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                                0x764 (size before relaxing)
+ .debug_str     0x00007c20      0x23f CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
+                                0x5be (size before relaxing)
+ .debug_str     0x00007e5f       0x88 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ffsystem.c.obj
+                                0x1ec (size before relaxing)
+ .debug_str     0x00007ee7       0x97 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ffunicode.c.obj
+                                0x210 (size before relaxing)
+ .debug_str     0x00007f7e      0x6e1 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff15/source/ff.c.obj
+                                0xd3a (size before relaxing)
+ .debug_str     0x0000865f      0x2b5 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_spi.c.obj
+                                0xabe (size before relaxing)
+ .debug_str     0x00008914      0x616 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.c.obj
+                                0xdaf (size before relaxing)
+ .debug_str     0x00008f2a      0x4d3 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.c.obj
+                                0xf88 (size before relaxing)
+ .debug_str     0x000093fd       0x8a CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/crc.c.obj
+                                0x19e (size before relaxing)
+ .debug_str     0x00009487       0x7f CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/glue.c.obj
+                                0x674 (size before relaxing)
+ .debug_str     0x00009506      0x3d7 CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/my_debug.c.obj
+                                0x60c (size before relaxing)
+ .debug_str     0x000098dd       0xfe CMakeFiles/sdcard.dir/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/src/rtc.c.obj
+                                0x368 (size before relaxing)
+ .debug_str     0x000099db      0x16c CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
+                                0x5f9 (size before relaxing)
+ .debug_str     0x00009b47      0x123 CMakeFiles/sdcard.dir/D_/ProgramFiles/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_rtc/rtc.c.obj
+                                0x4a5 (size before relaxing)
 
 .debug_frame    0x00000000     0x4ae8
  .debug_frame   0x00000000       0xb8 CMakeFiles/sdcard.dir/SDCard.c.obj

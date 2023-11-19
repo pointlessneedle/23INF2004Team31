@@ -1,4 +1,4 @@
-# Install script for directory: D:/EMProject/sdcard/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI
+# Install script for directory: D:/SIT/Projects/23INF2004Team31/sdcard/no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

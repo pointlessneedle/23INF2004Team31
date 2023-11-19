@@ -1,4 +1,4 @@
-# Install script for directory: D:/EMProject/sdcard
+# Install script for directory: D:/SIT/Projects/23INF2004Team31/sdcard
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/EMProject/sdcard/build/pico-sdk/cmake_install.cmake")
-  include("D:/EMProject/sdcard/build/build/cmake_install.cmake")
+  include("D:/SIT/Projects/23INF2004Team31/sdcard/build/pico-sdk/cmake_install.cmake")
+  include("D:/SIT/Projects/23INF2004Team31/sdcard/build/build/cmake_install.cmake")
 
 endif()
 
@@ -52,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/EMProject/sdcard/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/SIT/Projects/23INF2004Team31/sdcard/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

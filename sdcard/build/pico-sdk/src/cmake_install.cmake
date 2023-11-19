@@ -39,9 +39,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/EMProject/sdcard/build/pico-sdk/src/common/cmake_install.cmake")
-  include("D:/EMProject/sdcard/build/pico-sdk/src/rp2_common/cmake_install.cmake")
-  include("D:/EMProject/sdcard/build/pico-sdk/src/rp2040/cmake_install.cmake")
+  include("D:/SIT/Projects/23INF2004Team31/sdcard/build/pico-sdk/src/common/cmake_install.cmake")
+  include("D:/SIT/Projects/23INF2004Team31/sdcard/build/pico-sdk/src/rp2_common/cmake_install.cmake")
+  include("D:/SIT/Projects/23INF2004Team31/sdcard/build/pico-sdk/src/rp2040/cmake_install.cmake")
 
 endif()
 
