@@ -332,8 +332,8 @@ void __not_in_flash_func(read_flash)(spi_inst_t *spi, uint cs_pin, uint32_t addr
 
 // This code below will check against Winbond and Micron flash chips.
 // Please note that due to the unavailability of specific Micron Flash equipment
-// required for testing, the functionality of this code that is related to checking 
-// against Micron flash has not been fully validated. Once the necessary equipment
+// required for testing, the functionality of the portion of code that is related to
+// checking for Micron flash has not been fully validated. Once the necessary equipment
 // becomes available, further testing will be conducted, and any issues or incomplete
 // functionality will be addressed in subsequent development phases.
 // 
