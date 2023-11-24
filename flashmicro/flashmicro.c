@@ -27,6 +27,9 @@
 #define W_MAX_SIZE 38   // For Winbond
 #define M_MAX_SIZE 13   // For Micron
 
+#define ROWS 16
+#define COLS 16
+
 // Array to store keys / hexadecimal instruction returned by flash
 char w_keys[W_MAX_SIZE][20] = {"0x3010","0x3011","0x3012","0x3013",
                     "0x4012","0x4013","0x4014","0x4015",
@@ -293,12 +296,12 @@ void printAllItems()
 } 
 
 // Function to print the things in the memory's buffer 
-void printbuf(uint8_t buf[PAGE_SIZE]) {
+void printbuf(FILE *output, uint8_t buf[PAGE_SIZE]) {
     for (int i = 0; i < PAGE_SIZE; ++i) {
         if (i % 16 == 15)
-            printf("%02x\n", buf[i]);
+            fprintf(output, "%02x\n", buf[i]);
         else
-            printf("%02x ", buf[i]);
+            fprintf(output, "%02x ", buf[i]);
     }
 }
 
@@ -369,6 +372,7 @@ FlashID __not_in_flash_func(read_chip_id)(spi_inst_t *spi, uint cs_pin) {
         // Check if the device ID is under the list of known flash type as defined above
         char device_id_part[7];
         snprintf(device_id_part, sizeof(device_id_part), "0x%02X", device_id);
+        // integer 1 is to indicate to use 1st list (Winbond)
         if (check_item(device_id_part, 1) != NULL){
             printf("Manufacturer ID: 0x%02X\n", (uint16_t)buffer1);
             sleep_ms(200);
@@ -386,9 +390,9 @@ FlashID __not_in_flash_func(read_chip_id)(spi_inst_t *spi, uint cs_pin) {
         }
     }
     // Check if buffer1 matches Micron ManufactuerID
-    else if (buffer0 & 0x20){
-        // Combine buffer1 and buffer2 to get deviceID
-        uint16_t device_id = ((uint16_t)buffer1 << 8) | buffer2;
+    else if (buffer1 & 0x20){
+        // Combine buffer2 and buffer3 to get deviceID
+        uint16_t device_id = ((uint16_t)buffer2 << 8) | buffer3;
         printf("\n== Details of connected flash ==\n");
         sleep_ms(200);  // Sleep added to slow down the processing speed of the pico for print statement
         printf("Flash Type: Micron Serial Flash\n");
@@ -396,6 +400,7 @@ FlashID __not_in_flash_func(read_chip_id)(spi_inst_t *spi, uint cs_pin) {
         // Check if the device ID is under the list of known flash type as defined above
         char device_id_part[7];
         snprintf(device_id_part, sizeof(device_id_part), "0x%02X", device_id);
+        // integer 2 is to indicate to use 2nd list (Mircon)
         if (check_item(device_id_part, 2) != NULL){
             printf("Manufacturer ID: 0x%02X\n", (uint16_t)buffer1);
             sleep_ms(200);
@@ -452,7 +457,7 @@ int main() {
     
     /* Here maybe can put to a function instead */
     // Collating statements and content of flash id to save into file
-    char to_sd_output[20];
+    char to_sd_output[18];
     char type_output[40];
     char buffer1_str_output[25];
     char device_id_str_output[20];
@@ -476,24 +481,25 @@ int main() {
 
     sleep_ms(10);
 
-    /* Here maybe can save to a function instead */
+    /* Here maybe can save to a function instead, IN PROGRESS */
     // To get the content in the memory buffer, defined by page and target_address defined to start from 0
     printf("\n=== Getting Memory Buffer Content ===\n\n");
     uint8_t page_buf[PAGE_SIZE];
     const uint32_t target_address = 0;
     read_flash(SPI_PORT, SPI_CS_PIN, target_address, page_buf, PAGE_SIZE);
     sleep_ms(10);
+    printf(to_sd_output);
+    //write_to_existing_file(to_sd_output, page_buf);
+
+    // Testing purposes (filling the buffer with content)
     for(int i = 0; i < PAGE_SIZE; i++){
         // For each bytes in size of page, write 100 (decimal integer) which is 64 in hexadecimal
         // Can be changed to any integer you want
         page_buf[i] = 100;
     }
-    printbuf(page_buf);
-    //write_to_existing_file(to_sd_output, page_buf);
-    sleep_ms(10);
-    printf("\n=== Memory buffer content written to file ===\n\n");
 
     sleep_ms(10);
+    
     // Unmount drive
     //
     f_unmount("0:");
