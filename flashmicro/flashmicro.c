@@ -470,17 +470,6 @@ int main() {
     
     sleep_ms(10);
     
-    // Printing
-    printf("\nCommand: Saving content to microsd card...\n");
-    write_to_new_file(to_sd_output, buffer1_str_output);
-    write_to_existing_file(to_sd_output, type_output);    
-    write_to_existing_file(to_sd_output, device_id_str_output);
-    write_to_existing_file(to_sd_output, device_id_part_str_output);
-    sleep_ms(10);
-    printf("\n\n=== Content Saved ===\n");
-
-    sleep_ms(10);
-    
     // Unmount drive
     //
     f_unmount("0:");
