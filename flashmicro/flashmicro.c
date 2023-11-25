@@ -200,7 +200,7 @@ void get_system_time(){
         // Extract the day, month and year within the system, and change to fit current date
         year = time_info->tm_year + 1953; // Years since 1900
         month = time_info->tm_mon + 8; // Month is 0-indexed
-        day = time_info->tm_mday + 11;
+        day = time_info->tm_mday + 12;
         // Output print DD:MM:YY
         printf("Current System Time: %02d:%02d:%02d\n", day, month, year);
     } else {
@@ -296,12 +296,24 @@ void printAllItems()
 } 
 
 // Function to print the things in the memory's buffer 
-void printbuf(FILE *output, uint8_t buf[PAGE_SIZE]) {
+void printbuf(uint8_t buf[PAGE_SIZE]) {
     for (int i = 0; i < PAGE_SIZE; ++i) {
+        if (i % 16 == 15) {
+            printf("%02x\n", buf[i]);
+        }
+        else {
+            printf("%02x ", buf[i]);
+        }
+    }
+}
+
+// Function to convert binary data (printed by) to a hexadecimal string before saving to sdcard
+void binary_to_hex_string(char *hex_string, uint8_t *data, size_t len) {
+    for (size_t i = 0; i < len; ++i) {
         if (i % 16 == 15)
-            fprintf(output, "%02x\n", buf[i]);
+            sprintf(hex_string + i * 2, "%02x", data[i]);
         else
-            fprintf(output, "%02x ", buf[i]);
+            sprintf(hex_string + i * 2, "%02x", data[i]);
     }
 }
 
@@ -331,6 +343,44 @@ void __not_in_flash_func(read_flash)(spi_inst_t *spi, uint cs_pin, uint32_t addr
     cs_deselect(cs_pin);
 
     printf("Ready\n");
+}
+
+// Function to append bufffer content to the existing file
+void append_buffer_content(char *file_name, uint8_t *data, size_t len) {
+    printf(". ");
+
+    // Open file for writing while creating a new file
+    fr = f_open(&fil, file_name, FA_OPEN_APPEND | FA_WRITE); 
+    if (fr != FR_OK) {
+        printf("ERROR: Could not open file (%d)\r\n", fr);
+        while (true);
+    }
+
+    printf(". ");
+
+    // Converting binary data to hexadecimal string
+    char hex_string[len * 4];  // 1 byte represented by 2 characters + null terminator at the end (\n)
+    binary_to_hex_string(hex_string, data, len);
+
+    // Write the content in the hexadecimal string to the file
+    int ret = f_printf(&fil, hex_string);
+    if (ret < 0) {
+        printf("ERROR: Could not write to file (%d)\r\n", ret);
+        f_close(&fil);
+        while (true);
+    }
+
+    printf(". ");
+
+    // Close file
+    fr = f_close(&fil);
+    if (fr != FR_OK) {
+        printf("ERROR: Could not close file (%d)\r\n", fr);
+        while (true);
+    }
+
+    printf(". ");
+    sleep_ms(10);
 }
 
 // This code below will check against Winbond and Micron flash chips.
@@ -468,6 +518,36 @@ int main() {
     snprintf(device_id_str_output, sizeof(device_id_str_output), "Device ID: 0x%02X\n", flashid.device_id);
     snprintf(device_id_part_str_output, sizeof(device_id_part_str_output), "Winbond Part #: %s\r\n\n", flashid.device_id_part);
     
+    sleep_ms(10);
+    
+    // Printing
+    printf("\nCommand: Saving content to microsd card...\n");
+    write_to_new_file(to_sd_output, buffer1_str_output);
+    write_to_existing_file(to_sd_output, type_output);    
+    write_to_existing_file(to_sd_output, device_id_str_output);
+    write_to_existing_file(to_sd_output, device_id_part_str_output);
+    sleep_ms(10);
+    printf("\n\n=== Content Saved ===\n");
+
+    sleep_ms(10);
+
+    /* Here maybe can save to a function instead, IN PROGRESS */
+    // To get the content in the memory buffer, defined by page and target_address defined to start from 0
+    printf("\n=== Getting Memory Buffer Content ===\n\n");
+    uint8_t page_buf[PAGE_SIZE];
+    const uint32_t target_address = 0;
+    read_flash(SPI_PORT, SPI_CS_PIN, target_address, page_buf, PAGE_SIZE);
+
+    // Testing purposes (filling the buffer with content)
+    for(int i = 0; i < PAGE_SIZE; i++){
+        // For each bytes in size of page, write 100 (decimal integer) which is 64 in hexadecimal
+        // Can be changed to any integer you want
+        page_buf[i] = 100;
+    }
+    write_to_existing_file(to_sd_output, "\n--- Memory Buffer Content Page ---\n\n");
+    append_buffer_content(to_sd_output, page_buf, PAGE_SIZE);
+    printf("\n=== Memory Buffer Extracted and Saved ===\n");
+
     sleep_ms(10);
     
     // Unmount drive
