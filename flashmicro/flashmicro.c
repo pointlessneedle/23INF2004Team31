@@ -464,11 +464,11 @@ FlashID __not_in_flash_func(read_chip_id)(spi_inst_t *spi, uint cs_pin) {
             flash_id.device_id = device_id;
             snprintf(flash_id.device_id_part, sizeof(flash_id.device_id_part), "%s\r\n\n", check_item(device_id_part, 2));
         } else {
-            printf("Unknown flash type.\r\n");
+            printf("Unknown flash type.\r\n\nEnd of Program.\n");
         }
     }
     else{
-        printf("Unknown flash type.\r\n");
+        printf("Unknown flash type.\r\n\nEnd of Program.\n");
     }
 
     return flash_id;    // Return values into the structure
@@ -553,6 +553,9 @@ int main() {
     // Unmount drive
     //
     f_unmount("0:");
+    
+    sleep_ms(10);
+    printf("\nEnd of Program.\n");
     
     return 0;
 }
