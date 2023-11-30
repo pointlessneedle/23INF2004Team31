@@ -14,7 +14,7 @@ When GP20 is pressed, the generic I2C slave emulation feature is run, it will fi
 
 When GP21 is pressed, the feature for the flash and MicroSD program is run, the pico will transmit (send) in defined instructions into the connected flash to get the manufacturing, device and chip identification (ID) numbers. The manufacturer ID will identify what company manufactured the flash, and the device ID will be used to check against a data structure list within the program to see what is the flash’s type/series, and these information will be stored in a file in the sdcard. Additionally, the flash’s buffer memory content will be read and saved into the same file created in the sdcard.
 
-When GP22 is pressed, the SPI slave emulator is run, the program will load the memory map of the emulated evidence which is the BME280 sensor and initialization of the SPI pins. Another pico device will be the spi master that interacts with the emulated slave device.
+When GP22 is pressed, the SPI master emulator is run, the program will request for the chip ID and then the readings from the emulated slave which is the BME280 sensor. Another pico device will be the emulated slave that interacts with the master. 
 
 ## Requirements to Run
 > i.e. what libraries are needed/were used</i>
@@ -38,7 +38,9 @@ When GP22 is pressed, the SPI slave emulator is run, the program will load the m
 </table>
 
 ## How to Execute the Program
-After cloning the repository, build the application from the main folder only and load the uf2 file into the rasberry pi pico. You will then be led to the menu of the application and a button from GP20 - GP22 can be pressed to run its associated feature.
+After cloning the repository, build the application from the main folder only and load the uf2 file into the raspberry pi pico. You will then be led to the menu of the application and a button from GP20 - GP22 can be pressed to run its associated feature.
+
+For the SPI emulation, build the bme280_Slave in the SPI_Master_Slave folder and load the uf2 file into another raspberry pico with GP16 to GP 19 connected to each other (one pico's GP16 to the other's GP19 and GP19 to GP16).
 
 ## Citations on any Referenced Code Used
 ### 1st Feature : Flash & MicroSD Card

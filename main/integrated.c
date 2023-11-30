@@ -227,26 +227,20 @@ void gpio_callback(uint gpio, uint32_t events) {
             {
             case 'n':
                 {
-                    
-                }
-                break;
-            case 'i':
-                {
-                    state = 'n';
-                    mainMenuSelection = 0;
-                    printMainMenu();
-                }
-                break;
-            case 'm':
-                {
-                    state = 'n';
-                    mainMenuSelection = 0;
-                    printMainMenu();
+                    printSPIMasterMenu();
+                    switch(SPIMenuSelection) {
+                        case 0: {
+                            printf("Running SPI master for BME280:\n");
+                            exec_bme280_master();
+                            state = 's';
+                        }
+                        break;
+                    }
                 }
                 break;
             case 's':
                 {
-                    state = 'n';
+                    printf("Currently running SPI master for BME280:\n");
                     mainMenuSelection = 0;
                     printMainMenu();
                 }
