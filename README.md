@@ -38,7 +38,7 @@ When GP22 is pressed, the SPI slave emulator is run, the program will load the m
 </table>
 
 ## How to Execute the Program
-After cloning the repository, build the application and load the uf2 file into the maker pi pico. You will then be led to the menu of the application and a button from GP20 - GP22 can be pressed to run its associated feature.
+After cloning the repository, build the application from the main folder only and load the uf2 file into the rasberry pi pico. You will then be led to the menu of the application and a button from GP20 - GP22 can be pressed to run its associated feature.
 
 ## Citations on any Referenced Code Used
 ### 1st Feature : Flash & MicroSD Card
