@@ -53,11 +53,52 @@ After cloning the repository, build the application and load the uf2 file into t
   - Spi -> bme280 spi
 - Code references for SPI between 2 picos:
   - https://www.circuitstate.com/tutorials/making-two-raspberry-pi-pico-boards-communicate-through-spi-using-c-cpp-sdk/
+  - BME280 sensor datasheet (https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf)
+
 ### 3rd Feature : I2C Slave Emulator
+- Libraries from pico SDK were used
 
 
+## Task Allocation and Project Details
+### Drivers
+- SPI Drivers _ Yi Ching
+  - Read and write using SPI to flash (NOR flash Winbond W25Q128JV-IQ was used)
+- I2C Driver _ Darius
+  - Read and write using I2C to flash ( EEPROM flash ATMTC730 24C256N was used)
+- MicroSD Card Driver
+  - Read and write to MicroSD Card using Maker Pi Pico
+### Main Features
+- First Feature _ Yi Ching
+  - Using SPI interface
+  - Program to check what flash memory (part/series) is the connected device of. Also read the flash buffer memory content.
+  - Output the manufacturer ID, device ID and series parts #.
+  - Information gathered (the IDs and memory content) will be saved to the microsd card attached to the maker pi pico
+- Second Feature _ Jordan & Jia Le
+  - Using SPI interface
+  - Pico device by default is a master, it can be made to emulate a slave to listen and respond to commands by the master device
+  - The main idea is to emulate SPI devices using PIO
+    - Two buffers will be sent between the devices–master is the transmitter, slave is the receiver.
+    - Master to send incrementing data to slave in a loop, which the slave will listen for.
+    - Slave then reads and prints the received data.
+- Third Feature _ Darius & Manav
+  - Using I2C interface
+  - Create I2C slave emulator for devices in i2c/*_i2c of pico-examples
+  - Another pico device should be able to use the pico example code to interact with the I2C slave emulator pico
+  - The slave emulator will return the appropriate outputs when prompted by the master
+  - The slave emulator will be based of the datasheets of the different devices in pico_example (e.g. https://www.sgbotic.com/products/datasheets/sensors/BST-BMP280-DS001-11.pdf)
 
-
-
-
+## Future Improvements
+- Main General Improvements
+  - Attach more RAM to the pico to allow it to perform more functions simultaneously
+- I2C Driver
+  - Allow for more features to be editable in the config.h to make generic.c more configurable and powerful
+  - Improve the capability of the pico by making the generic slave perform specific actions based on the commands that the generic slave receives
+- Flash & MicroSD
+  - Forensic analysis can be conducted on the buffer memory content that was pulled from the flash.
+  - Upgrading the program to detect and identify more manufacture companies, as well as the different series under that company brand
+  - Using pico’s WiFi feature to work with Network Time Protocol (NTP) to get the time to save the file with the current timestamp. Currently, the code is coded and has to be changed manually using
+- SPI Slave Emulator:
+  - Emulate more devices
+  - Config file can be improved such that it consists of an array of classes or structs that stores the chip id or memory address of the other devices that can be emulated.
+  - Program to allow for scalability so that when other devices were configured to be emulated, the master can iterate through the config file to identity the board.
 
